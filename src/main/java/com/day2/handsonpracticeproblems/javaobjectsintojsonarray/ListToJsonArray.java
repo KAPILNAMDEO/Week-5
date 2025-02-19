@@ -1,6 +1,5 @@
-package com.day2.javaobjectsintojsonarray;
+package com.day2.handsonpracticeproblems.javaobjectsintojsonarray;
 
-import com.day2.handsonpracticeproblems.javaobjectsintojsonarray.Person;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.util.ArrayList;

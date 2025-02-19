@@ -2,6 +2,7 @@ package com.day2.javaobjectsintojsonarray;
 
 
 
+import com.day2.handsonpracticeproblems.javaobjectsintojsonarray.Person;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import java.util.ArrayList;

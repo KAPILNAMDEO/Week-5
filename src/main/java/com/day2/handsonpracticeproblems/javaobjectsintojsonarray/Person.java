@@ -1,4 +1,4 @@
-package com.day2.javaobjectsintojsonarray;
+package com.day2.handsonpracticeproblems.javaobjectsintojsonarray;
 
 public class Person {
     public String name;
