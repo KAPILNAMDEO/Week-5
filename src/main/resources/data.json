@@ -1,9 +1,23 @@
-{
-  "name": "John Doe",
-  "email": "john.doe@example.com",
-  "age": 30,
-  "address": {
-    "city": "New York",
-    "zip": "10001"
+[
+  {
+    "id": 101,
+    "name": "Vidhi Jain",
+    "email": "vidhijain@gmail.com",
+    "age": 21,
+    "city": "Bhopal"
+  },
+  {
+    "id": 102,
+    "name": "Suhani Choudhary",
+    "email": "choudharysuhani@gmail.com",
+    "age": 21,
+    "city": "Betul"
+  },
+  {
+    "id": 103,
+    "name": "Kapil Shreasth",
+    "email": "kapilshreasth@gmail.com",
+    "age": 20,
+    "city": "india"
   }
-}
+]
