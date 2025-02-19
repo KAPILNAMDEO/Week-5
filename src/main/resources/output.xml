@@ -1,0 +1,1 @@
+<ObjectNode><student><id>101</id><name>John Doe</name><age>22</age><department>Computer Science</department><courses>Data Structures</courses><courses>Algorithms</courses><courses>Database Systems</courses></student></ObjectNode>
